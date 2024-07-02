@@ -65,4 +65,4 @@ Kosta 교육과정 중 진행한 프로젝트입니다.
 #  Contact
 
 - 이메일 : johnch94@naver.com
-- 블로그 : <a href="https://velog.io/@kimphysicsman">
+- 블로그 : <a href="https://johnch94.github.io/">https://johnch94.github.io/</a>
